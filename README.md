@@ -1,2 +1,2 @@
 # Delta--demo
-This is basic for git and github.
+This is basic for git & github.
